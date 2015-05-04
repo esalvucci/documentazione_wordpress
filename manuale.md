@@ -1,10 +1,15 @@
 ##Premessa
 
 ##Login nel pannello di amministrazione del sito
-Scrivere nella barra degli indirizzi del browser "www.emiroagesci.it/wp-admin". A questo punto ci si troverà di fronte ad un messaggio di errore del tipo ![This connection is Untrusted](immagine); si potrà procedere cliccando su "I Understand the risk" (o simile, in base al browser utilizzato).  
-Ora, arrivati alla schermata ![Login]() si potrà accedere al pannello di amministrazione del sito con le proprie credenziali.  
+Scrivere nella barra degli indirizzi del browser "www.emiroagesci.it/wp-admin". A questo punto ci si troverà di fronte ad un messaggio di errore del tipo  
+![This Connection is Untrusted](https://cloud.githubusercontent.com/assets/1481663/7457148/9c389e2e-f28a-11e4-84e2-7c59ff74a3c7.png)  
 
-##Panoramica sul pannello di amministrazione (Dashboard)
+si potrà procedere cliccando su "I Understand the risk" (o simile, in base al browser utilizzato).  
+Ora, arrivati alla schermata di login si potrà accedere al pannello di amministrazione del sito con le proprie credenziali.  
+![Login](https://cloud.githubusercontent.com/assets/1481663/7457340/03a4d7a2-f28c-11e4-8f47-08ac941e31c0.png)  
+
+
+##Panoramica sul pannello di amministrazione (Dashboard/Bacheca)
 Il pannello di amministrazione del sito è composto da una barra orizzontale, con le informazioni dell'utente che ha fatto il login, e da una barra verticale (a sinistra), con gli strumenti per l'amministrazione del sito.
 Nella barra a sinistra abbiamo nell'ordine:
 - Dashboard (per poter tornare in ogni momento alla schermata immediatamente successiva al login)
@@ -14,6 +19,8 @@ Nella barra a sinistra abbiamo nell'ordine:
 - Commenti (per la gestione dei commenti ai contenuti del sito da parte dei visitatori)
 - Aspetto (per la gestione della grafica e del tema del sito)
 - Plugins (per la gestione dei componenti aggiuntivi del sito)  
+![dashboard](https://cloud.githubusercontent.com/assets/1481663/7457366/4148d180-f28c-11e4-8025-55bbd5f20b55.png)  
+
 
 ##Pagine
 Le pagine sono contenuti del sito che rimangono invariati nel tempo, per esempio la pagina dei gruppi della zona, oppure la pagina del progetto educativo di zona ecc..)  
@@ -27,9 +34,9 @@ Selezionare, dal menu di sinistra, "Pagine" e poi "Tutte le pagine". A questo pu
 * Eliminare pagina:  
 Nel riquadro a destra, nella pagina di modifica del post da cancellare, si può cancellare una pagina cliccando su "Muovi nel cestino".
 
-
+![articoli_dashboard](https://cloud.githubusercontent.com/assets/1481663/7457435/ade3280e-f28c-11e4-98ae-80f205b69ca6.png)
 ##Articoli
-Gli articoli sono contenuti dinamici del sito, o comunuqe, notizie che rimarranno valide e in evidenza per poco tempo.  
+Gli articoli sono contenuti dinamici del sito, o comunuqe, notizie che rimarranno valide e in evidenza per poco tempo.
 
 * Aggiungere un nuovo articolo:  
 Analogamente alle pagine, selezionare dal menu di sinistra "Articoli" e poi "Nuovo articolo"  
@@ -53,6 +60,7 @@ Per aggiungere un tag possiamo utilizzare il riquadro a destra, sotto a quello d
 ##Gestione del tema grafico
 
 ##Menu
+![menu](https://cloud.githubusercontent.com/assets/1481663/7457468/05adc97c-f28d-11e4-8dc6-0fc705d3b8cc.png)
 
 Per aggiungere link al menu del sito selezionare la voce "Aspetto", nel menu a sinistra, e poi "Menu" (tra le scelte che compaiono).
 * Creazione di un nuovo menu:
