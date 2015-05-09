@@ -1,12 +1,14 @@
 ##Premessa
 
 ##Login nel pannello di amministrazione del sito
-Per accedere alla "Bacheca/Dashboard", ovvero il pannello di amministrazione del sito di zona, digitiamo nella barra degli indirizzi del browser, l'indirizzo completo del sito (ad esempio "www.bologna.emiroagesci.it/wp-admin") seguito da "/wp-admin". A questo punto, di fronte ad un messaggio di errore simile a quello in immagine, procediamo cliccando su "I Understand the risk" (o simile, in base al browser utilizzato).
-![This Connection is Untrusted](https://cloud.githubusercontent.com/assets/1481663/7457148/9c389e2e-f28a-11e4-84e2-7c59ff74a3c7.png)  
-Ora, arrivati alla schermata di login, accediamo al pannello di amministrazione del sito con le credenziali che ci sono state fornite.  
+Per accedere alla "Bacheca/Dashboard", ovvero il pannello di amministrazione del sito di zona, digitiamo nella barra degli indirizzi del browser, l'indirizzo completo del sito (ad esempio "www.bologna.emiroagesci.it/wp-admin") seguito da "/wp-admin".
+Se vogliamo accedere al pannello di amministrazione del sito regionale (quindi "www.emiroagesci.it/wp-admin") facciamo il login con le credenziali che ci sono state fornite.
 ![Login](https://cloud.githubusercontent.com/assets/1481663/7457340/03a4d7a2-f28c-11e4-8f47-08ac941e31c0.png)  
 
-Nel caso si acceda al pannello di amministrazione del sito regionale  (quindi "www.emiroagesci.it/wp-admin") non si troverà il "warning" citato sopra.
+Nel caso, invece, si voglia accedere alla dashboard di un sito di zona, ci troveremo di fronte ad un messaggio di errore simile a quello in immagine. Procediamo cliccando su "I Understand the risk" (o simile, in base al browser utilizzato).
+![This Connection is Untrusted](https://cloud.githubusercontent.com/assets/1481663/7457148/9c389e2e-f28a-11e4-84e2-7c59ff74a3c7.png)
+Ora possiamo fare il login con il nostro nome utente e password.
+
 
 ##Panoramica sul pannello di amministrazione (Dashboard/Bacheca)
 Il pannello di amministrazione del sito è composto da una barra orizzontale, con le informazioni dell'utente che ha fatto il login, e da una barra verticale (a sinistra), con gli strumenti per l'amministrazione del sito.
