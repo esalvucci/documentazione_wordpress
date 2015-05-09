@@ -20,7 +20,7 @@ Nella barra a sinistra abbiamo nell'ordine:
 - Commenti (per la gestione dei commenti ai contenuti del sito da parte dei visitatori)
 - Aspetto (per la gestione della grafica e del tema del sito)
 - Plugins (per la gestione dei componenti aggiuntivi del sito)  
-![dashboard](https://cloud.githubusercontent.com/assets/1481663/7457366/4148d180-f28c-11e4-8025-55bbd5f20b55.png)  
+![dashboard](https://cloud.githubusercontent.com/assets/1481663/7549745/2dab95ee-f643-11e4-9b33-2388caa213a2.png)
 
 
 ##Pagine
