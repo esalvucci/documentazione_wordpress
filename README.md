@@ -6,7 +6,7 @@ Se vogliamo accedere al pannello di amministrazione del sito regionale (quindi "
 ![Login](https://cloud.githubusercontent.com/assets/1481663/7457340/03a4d7a2-f28c-11e4-8f47-08ac941e31c0.png)  
 
 Nel caso, invece, si voglia accedere alla dashboard di un sito di zona, ci troveremo di fronte ad un messaggio di errore simile a quello in immagine. Procediamo cliccando su "I Understand the risk" (o simile, in base al browser utilizzato).
-![This Connection is Untrusted](https://cloud.githubusercontent.com/assets/1481663/7457148/9c389e2e-f28a-11e4-84e2-7c59ff74a3c7.png)
+![This Connection is Untrusted](https://cloud.githubusercontent.com/assets/1481663/7549603/dd9eb97e-f63c-11e4-99c5-0dae9f7821d1.png)
 Ora possiamo fare il login con il nostro nome utente e password.
 
 
@@ -35,7 +35,7 @@ Selezionare, dal menu di sinistra, "Pagine" e poi "Tutte le pagine". A questo pu
 * Eliminare pagina:  
 Nel riquadro a destra, nella pagina di modifica del post da cancellare, si può cancellare una pagina cliccando su "Muovi nel cestino".
 
-![articoli_dashboard](https://cloud.githubusercontent.com/assets/1481663/7457435/ade3280e-f28c-11e4-98ae-80f205b69ca6.png)
+
 ##Articoli
 Gli articoli sono contenuti dinamici del sito, o comunuqe, notizie che rimarranno valide e in evidenza per poco tempo.
 
@@ -48,6 +48,9 @@ Anche in questo caso, selezionare "Articoli" e "Tutti gli articoli". Ora, clicca
 * Eliminare articolo:  
 Nel riquadro a destra, nella pagina di modifica dell'articolo da cancellare, si può cancellare un articolo cliccando su "Muovi nel cestino".
 
+![articoli_dashboard](https://cloud.githubusercontent.com/assets/1481663/7457435/ade3280e-f28c-11e4-98ae-80f205b69ca6.png)
+
+
 ###Categorie
 Wordpress permette di organizzare gli articoli in categorie (es L/C, E/C, R/S, FoCa ecc..), in modo che questi possano essere catalogati, e che la loro ricerca sia più facile.
 Un'altra utilità delle categorie sta nella possibilità di mettere in evidenza nel sito, per esempio in home page, una determinata categoria piuttosto che un'altra; oppure visualizzare in una pagina solo gli articoli che fanno parte di una certa categoria.
@@ -56,6 +59,7 @@ Per associare un articolo ad una categoria possiamo usare il riquadro a destra, 
 ###Tag
 Oltre alle categorie possiamo associare ad un articolo uno o più tag, ovvero etichette che ci permetteranno di raggruppare degli articoli correlati tra loro e comunicare velocemente al lettore di cosa tratta un determinato articolo.  
 Per aggiungere un tag possiamo utilizzare il riquadro a destra, sotto a quello delle categorie.
+
 ###Nota sulle pagine e sugli articoli
 
 ##Gestione del tema grafico
