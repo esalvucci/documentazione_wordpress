@@ -1,11 +1,12 @@
 ##Premessa
 
 ##Login nel pannello di amministrazione del sito
-Per accedere alla "Bacheca/Dashboard", ovvero il pannello di amministrazione del sito di zona, digitiamo nella barra degli indirizzi del browser, l'indirizzo completo del sito (ad esempio "www.bologna.emiroagesci.it/wp-admin") seguito da "/wp-admin".
-Se vogliamo accedere al pannello di amministrazione del sito regionale (quindi "www.emiroagesci.it/wp-admin") facciamo il login con le credenziali che ci sono state fornite.
+Per accedere alla "Bacheca/Dashboard", ovvero il pannello di amministrazione del sito di zona, digitiamo nella barra degli indirizzi del browser, l'indirizzo completo del sito seguito da "/wp-admin" (ad esempio "www.bologna.emiroagesci.it/wp-admin" o "www.emiroagesci.it/wp-admin). A questo punto possiamo fare login con le credenziali che ci sono state fornite.
+NB: 
+Se vogliamo accedere al pannello di amministrazione del sito regionale (quindi "www.emiroagesci.it/wp-admin") facciamo il 
 ![Login](https://cloud.githubusercontent.com/assets/1481663/7457340/03a4d7a2-f28c-11e4-8f47-08ac941e31c0.png)  
 
-Nel caso, invece, si voglia accedere alla dashboard di un sito di zona, ci troveremo di fronte ad un messaggio di errore simile a quello in immagine. Procediamo cliccando su "I Understand the risk" (o simile, in base al browser utilizzato).
+Nel caso di accesso alla dashboard del sito di zona, ci troveremo di fronte ad un messaggio di errore simile a quello in immagine. Procediamo cliccando su "I Understand the risk" (o simile, in base al browser utilizzato).
 ![This Connection is Untrusted](https://cloud.githubusercontent.com/assets/1481663/7549687/902b9bcc-f640-11e4-8239-99b56bd16fb6.png)
 Ora possiamo fare il login con il nostro nome utente e password.
 
