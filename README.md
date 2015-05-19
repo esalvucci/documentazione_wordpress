@@ -4,10 +4,10 @@
 Per accedere alla "Bacheca/Dashboard", ovvero il pannello di amministrazione del sito di zona, digitiamo nella barra degli indirizzi del browser, l'indirizzo completo del sito seguito da "/wp-admin" (ad esempio "www.bologna.emiroagesci.it/wp-admin" o "www.emiroagesci.it/wp-admin). A questo punto possiamo fare login con le credenziali che ci sono state fornite.
 NB: 
 Se vogliamo accedere al pannello di amministrazione del sito regionale (quindi "www.emiroagesci.it/wp-admin") facciamo il 
-![Login](https://cloud.githubusercontent.com/assets/1481663/7457340/03a4d7a2-f28c-11e4-8f47-08ac941e31c0.png)  
+![Login](img/login.png)  
 
 Nel caso di accesso alla dashboard del sito di zona, ci troveremo di fronte ad un messaggio di errore simile a quello in immagine. Procediamo cliccando su "I Understand the risk" (o simile, in base al browser utilizzato).
-![This Connection is Untrusted](https://cloud.githubusercontent.com/assets/1481663/7549687/902b9bcc-f640-11e4-8239-99b56bd16fb6.png)
+![This Connection is Untrusted](img/https.png)
 Ora possiamo fare il login con il nostro nome utente e password.
 
 
@@ -21,7 +21,7 @@ Nella barra a sinistra abbiamo nell'ordine:
 - Commenti (per la gestione dei commenti ai contenuti del sito da parte dei visitatori)
 - Aspetto (per la gestione della grafica e del tema del sito)
 - Plugins (per la gestione dei componenti aggiuntivi del sito)  
-![dashboard](https://cloud.githubusercontent.com/assets/1481663/7549745/2dab95ee-f643-11e4-9b33-2388caa213a2.png)
+![dashboard](img/dashboard.png)
 
 
 ##Pagine
@@ -49,7 +49,7 @@ Anche in questo caso, selezionare "Articoli" e "Tutti gli articoli". Ora, clicca
 * Eliminare articolo:  
 Nel riquadro a destra, nella pagina di modifica dell'articolo da cancellare, si può cancellare un articolo cliccando su "Muovi nel cestino".
 
-![articoli_dashboard](https://cloud.githubusercontent.com/assets/1481663/7457435/ade3280e-f28c-11e4-98ae-80f205b69ca6.png)
+![articoli_dashboard](img/articoli_dashboard.png)
 
 
 ###Categorie
@@ -66,9 +66,10 @@ Per aggiungere un tag possiamo utilizzare il riquadro a destra, sotto a quello d
 ##Gestione del tema grafico
 
 ##Menu
-![menu](https://cloud.githubusercontent.com/assets/1481663/7457468/05adc97c-f28d-11e4-8dc6-0fc705d3b8cc.png)
+![menu](img/menu.png)
 
-Per aggiungere link al menu del sito selezionare la voce "Aspetto", nel menu a sinistra, e poi "Menu" (tra le scelte che compaiono).
+Per aggiungere link al menu del sito selezionare la voce "Aspetto", nel menu a sinistra, e poi "Menu" (tra le scelte che compaiono).  
+
 * Creazione di un nuovo menu:
 Scrivere il nome del menu nel campo apposito e poi cliccare su "Crea menu".
 (immagine)
