@@ -3,11 +3,14 @@
 ##Login nel pannello di amministrazione del sito
 Per accedere alla "Bacheca/Dashboard", ovvero il pannello di amministrazione del sito di zona, digitiamo nella barra degli indirizzi del browser, l'indirizzo completo del sito seguito da "/wp-admin" (ad esempio "www.bologna.emiroagesci.it/wp-admin" o "www.emiroagesci.it/wp-admin). A questo punto possiamo fare login con le credenziali che ci sono state fornite.
 NB: 
-Se vogliamo accedere al pannello di amministrazione del sito regionale (quindi "www.emiroagesci.it/wp-admin") facciamo il 
+Se vogliamo accedere al pannello di amministrazione del sito regionale (quindi "www.emiroagesci.it/wp-admin") facciamo il login.  
+
 ![Login](img/login.png)  
 
-Nel caso di accesso alla dashboard del sito di zona, ci troveremo di fronte ad un messaggio di errore simile a quello in immagine. Procediamo cliccando su "I Understand the risk" (o simile, in base al browser utilizzato).
-![This Connection is Untrusted](img/https.png)
+Nel caso di accesso alla dashboard del sito di zona, ci troveremo di fronte ad un messaggio di errore simile a quello in immagine. Procediamo cliccando su "I Understand the risk" (o simile, in base al browser utilizzato).  
+
+![This Connection is Untrusted](img/https.png)  
+
 Ora possiamo fare il login con il nostro nome utente e password.
 
 
@@ -21,7 +24,8 @@ Nella barra a sinistra abbiamo nell'ordine:
 - Commenti (per la gestione dei commenti ai contenuti del sito da parte dei visitatori)
 - Aspetto (per la gestione della grafica e del tema del sito)
 - Plugins (per la gestione dei componenti aggiuntivi del sito)  
-![dashboard](img/dashboard.png)
+
+![dashboard](img/dashboard.png)  
 
 
 ##Pagine
@@ -63,6 +67,8 @@ Per aggiungere un tag possiamo utilizzare il riquadro a destra, sotto a quello d
 
 ###Nota sulle pagine e sugli articoli
 
+
+
 ##Gestione del tema grafico
 
 ##Menu
@@ -79,6 +85,10 @@ Selezionare, dalla colonna a sinistra ("Pagine, Link, Categorie") una pagina del
 Nel caso il link sia di una pagina esterna (es. "http://agesci.org/downloads.php") utilizzare la sezione "Custom Links"
 
 ##I widget
+  
+I widget sono uno strumento utile a personalizzare facilmente alcune aree del sito (sidebar, header, footer, ecc..) in base alle proprie esigenze. In particolare, dobbiamo trascinare il widget che abbiamo scelto dalla colonna "Widget disponibili" dentro all'area di nostro interesse (es. Sidebar o Header ecc..). A questo punto possiamo compilare i campi richiesti per quello specifico widget
+
+![widget](img/widget.png)
 
 ##Gestione dei contatti tramite il plugin apposito
 
