@@ -7,6 +7,6 @@ Nella barra a sinistra abbiamo nell'ordine:
 - Pagine (per la gestione delle pagine del sito)
 - Commenti (per la gestione dei commenti ai contenuti del sito da parte dei visitatori)
 - Aspetto (per la gestione della grafica e del tema del sito)
-- Plugins (per la gestione dei componenti aggiuntivi del sito)  
+- Plugin (per la gestione dei componenti aggiuntivi del sito)  
 
 ![dashboard](img/dashboard.png) 
