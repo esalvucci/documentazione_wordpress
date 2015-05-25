@@ -6,7 +6,7 @@ Esiste una vastissima quantità di [temi per Wordpress](https://wordpress.org/th
 
 ##Personalizzazione di Tempera
 Per andare a personalizzare il tema consigliato utilizziamo il menu di sinistra della nostra dashboard posizionandoci su "Aspetto" e cliccando su "Tempera Settings".
-![tempera settings](img/tempera_settings_0.png)  
+![tempera settings](img/tempera_settings_0.png)
 
 ####Impostazioni del Layout di Pagina
 Scegliendo la riga "Impostazioni del Layout di Pagina" possiamo modificare la struttura delle pagine del nostro sito, ovvero: il contenuto sviluppato su una colonna, su due colonne con a destra una barra verticale, su due colonne con a sinistra una barra verticale e così via...
