@@ -8,9 +8,9 @@
 * Contenuti del sito
 	* [Pagine](pagine.md)
 	* [Articoli](articoli.md)
+	    * [Formato degli articoli](formato.md)
 	* [Categorie](categorie.md)
 	* [Tag](tag.md)
-	
 	* [Immagini, video, documenti o altri contenuti](altri_contenuti.md)
 
 
