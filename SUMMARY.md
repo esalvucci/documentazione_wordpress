@@ -7,7 +7,6 @@
 * [I widget](widget.md)
 * [Menu](menu.md)
 * [Gestione dei contatti tramite plugin apposito](contatti.md)
-* [Gestione del calendario tramite plugin apposito](calendario.md)
 * Contenuti del sito
    * [Pagine](pagine.md)
    * [Articoli](articoli.md)
