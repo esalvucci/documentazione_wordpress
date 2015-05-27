@@ -44,3 +44,7 @@ Può essere per esempio uno strumento utile per mettere in evidenza le notizie d
 #####Impostazioni dei colori
 Per impostare i colori del sito (dello sfondo, dei testi, dei link ecc...) selezioniamo "Impostazione dei colori".
 Posizionando il mouse su ogni campo per il colore (con il codice specifico in esadecimale) visualizziamo a cosa si riferisce un determinato colore. Per modificarlo clicchiamo sul codice esadecimale (es. #f3e24d) e comparirà una "tavoletta dei colori"; a questo punto selezioniamo il colore che preferiamo.
+
+#####Box con notizie in evidenza in home page
+Per mettere in evidenza gli ultimi articoli pubblicati con una determinata categoria possiamo utilizzare il [widget](widget.md) "Category Post" trascinandolo (nella pagina dei wiget) nell'area "Colonne pagina di presentazione" poi selezioniamo la categoria di nostro interesse. Così facendo i titoli degli ultimi articoli della categoria scelta saranno visibili sotto la slideshow in home page.  
+![category post widget](img/category_post_widget.png)

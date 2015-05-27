@@ -5,6 +5,7 @@
 * [Panoramica sulla bacheca/dashboard](dashboard.md)
 * [Gestione del tema grafico](tema.md)
 * [I widget](widget.md)
+* [Menu](menu.md)
 * [Gestione dei contatti tramite plugin apposito](contatti.md)
 * [Gestione del calendario tramite plugin apposito](calendario.md)
 * Contenuti del sito
