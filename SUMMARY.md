@@ -12,6 +12,6 @@
        * [Formato degli articoli](formato.md)
    * [Categorie](categorie.md)
    * [Tag](tag.md)
-* [Plugin](plugin.md)
 * [Slider](slider.md)
+* [Plugin](plugin.md)
 
