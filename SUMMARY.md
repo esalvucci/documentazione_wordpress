@@ -12,8 +12,8 @@
        * [Formato degli articoli](formato.md)
    * [Categorie](categorie.md)
    * [Tag](tag.md)
-* Calendario
 * [Plugin](plugin.md)
    * [Slider](slider.md)
+   * Calendario
    * Calendario
 
