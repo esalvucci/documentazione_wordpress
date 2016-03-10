@@ -13,5 +13,6 @@
    * [Categorie](categorie.md)
    * [Tag](tag.md)
 * [Plugin](plugin.md)
-  * [Slider](slider.md)
+   * [Slider](slider.md)
+   * Calendario
 
