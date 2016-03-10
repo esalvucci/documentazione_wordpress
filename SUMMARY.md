@@ -11,6 +11,5 @@
    * [Articoli](articoli.md)
        * [Formato degli articoli](formato.md)
    * [Categorie](categorie.md)
-   * Plugin
    * [Tag](tag.md)
 
