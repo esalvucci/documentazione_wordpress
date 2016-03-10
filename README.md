@@ -1,10 +1,4 @@
-#Premessa
-
-Il sito AGESCI dell'Emilia-Romagna e tutti i siti delle zone forniti dalla regione sono uno strumento di aiuto per tutti i censiti e non sulle attività associative.  
-
-####Chi pubblica le notizie sul sito?  
-Per il sito regionale pubblicano i responsabili, gli incaricati (alle branche o ai settori), o eventualmente persone da loro delegate.
-Per accedere al pannello di amministrazione di uno dei siti viene fornita un nome utente e una password personali.
+#Premessa  
 
 ####Il software utilizzato
 Per realizzare il sito regionale e i siti delle zone si è scelto di utilizzare [Wordpress](www.wordpress.org) per due motivi:  
