@@ -13,5 +13,4 @@
    * [Categorie](categorie.md)
    * Plugin
    * [Tag](tag.md)
-       * Plugin
 
