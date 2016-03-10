@@ -14,5 +14,4 @@
    * [Tag](tag.md)
 * [Plugin](plugin.md)
    * [Slider](slider.md)
-   * Calendario
 
