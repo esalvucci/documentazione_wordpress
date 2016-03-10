@@ -9,6 +9,10 @@ Per creare una nuova galleria cliccare su "Add New Image Slider". A questo punto
 
 ![Aggiungi immagine](img/slider2.png)
 
+Inserita l'immagine è possibile associarle un titolo e una descrizione. Il testo della descrizione andrà a corredare l'immagine mentre questa scorre.
+
+![Titolo e descrizione immagine](slider5.png)
+
 Per salvare la nuova galleria creata cliccare su "Pubblica".
 
 ![Pubblica](slider3.png)
