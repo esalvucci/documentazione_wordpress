@@ -24,8 +24,7 @@ Le "Impostazioni della Testata" riguardano la parte superiore del sito (header),
 Possiamo ora modificare il logo che comparirà nella parte superiore di ogni pagina del sito scrivendo il link dell'immagine scelta nello spazio affianco a "Upload logo personalizzato" (per caricare il file vedi paragrafo su [immagini e altri contenuti](altri_contenuti.md))  
 
 ####Pagina di presentazione
-La pagina di presentazione consiste nello slider, i tre box con le notizie delle branche e il resto dei contenuti della home page (ultimi articoli pubblicati).  
-
+La pagina di presentazione consiste nello slider, il testo di presentazione e il calendario
 ![tempera settings layout slider](img/tempera_settings_presentation_page.png)  
 
 #####Gestione dello slider
@@ -33,7 +32,8 @@ La pagina di presentazione consiste nello slider, i tre box con le notizie delle
 Lo slider può essere utile per mostrare le notizie in primo piano corredate da un'immagine; per un' impostazione del genere in "slide" -> "slide content" selezioniamo "Ultimi post della categoria" e in "scegli la categoria" per esempio scegliamo "In primo piano".
 Ora lo slider mostrerà i contenuti della categoria "In primo piano".  
 NB: Verranno visualizzati solo gli articoli con una immagine (paragrafo [Articoli](articoli.md) per vedere come associare un'immagine ad un articolo).  
-E' preferibile immagini che verranno utilizzate nello slider abbiano proporzioni "orizzontali", quindi con larghezza maggiore dell'altezza.  
+Per lo slider sono preferibili immagini con proporzioni "orizzontali", quindi con larghezza maggiore dell'altezza.
+E' anche importante che le immagini abbiano la stessa dimensione, diversamente lo slider sarà di un'altezza per un'immagine e di un'altra per un'immagine diversa
 ![tempera settings layout slider 2](img/tempera_settings_presentation_page_2.png)
 
 #####Colonne di presentazione
