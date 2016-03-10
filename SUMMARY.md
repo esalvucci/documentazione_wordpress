@@ -6,6 +6,7 @@
 * [Gestione del tema grafico](tema.md)
 * [I widget](widget.md)
 * [Menu](menu.md)
+   * plugin.md
 * Contenuti del sito
    * [Pagine](pagine.md)
    * [Articoli](articoli.md)
