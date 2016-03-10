@@ -1,5 +1,5 @@
 ##Pagine
-Le pagine sono contenuti del sito che rimangono invariati nel tempo (per esempio la pagina dei gruppi della zona, oppure la pagina del progetto educativo di zona ecc..)  
+Le pagine sono contenuti del sito che rimangono invariati nel tempo (per esempio la pagina "chi siamo", oppure la pagina del "Dove siamo" ecc..)  
 
 * Aggiungere una nuova pagina:  
 Selezionare, dal menu di sinistra, "Pagine" e poi "Nuova pagina".  
