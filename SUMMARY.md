@@ -15,5 +15,4 @@
 * [Plugin](plugin.md)
    * [Slider](slider.md)
    * Calendario
-   * Calendario
 
