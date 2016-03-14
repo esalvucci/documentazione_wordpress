@@ -13,6 +13,8 @@ Nel riquadro a destra, nella pagina di modifica dell'articolo da cancellare, si 
 ![articoli_dashboard](img/articoli_dashboard.png)
 
 * Immagini in evidenza
+
 ![Immagine in evidenza](featured_image.png) 
+
 Per aggiungere un'immagine in evidenza in un articolo utilizzare il box in basso a destra "Immagine in evidenza". Tramite "Imposta l'immagine in evidenza" scegliere un'immagine tra quelle già caricate oppure caricarne una dal proprio computer.
 
